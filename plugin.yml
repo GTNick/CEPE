@@ -1,0 +1,8 @@
+name: CEPE
+version: 0.1
+api: [1.0.0]
+description: CustomEnchants
+author: CrazierDevotee0
+
+main: CEPE\CEPE
+load: STARTUP
